@@ -1,4 +1,4 @@
-# DS-Bootcamp-Week_1
+# DS-Bootcamp-Week-1
 
 First week of code from Data Science Bootcamp by Data Society
 
